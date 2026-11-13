@@ -1,39 +1,23 @@
-## Hi there 👋
+# 👋 안녕하세요, 예비 AI 데이터 분석가 정준교입니다.
 
-### 안녕하세요! 데이터로 시장의 흐름을 읽는 예비 데이터 분석가 `정준교`입니다. 👋
+Python을 기반으로 데이터를 정리하고, 탐색·시각화하며 인사이트를 찾는 과정에 관심이 있습니다.
+현재 **6개월 과정의 데이터 분석 부트캠프 수료를 앞두고** 분석 기초와 실습 역량을 쌓고 있습니다.
 
-코딩을 시작한 지 이제 막 두 달이 된 병아리 개발자이지만, 매일 꾸준히 데이터를 다루며 성장하고 있습니다.  
-숫자 속에 숨겨진 패턴을 찾아내는 **통계적 사고**를 바탕으로, **주식 시장 분석**과 **시계열 데이터 예측**에 깊은 관심을 두고 공부 중입니다.
+### 🎯 관심 분야
+- 데이터 전처리 및 탐색적 데이터 분석(EDA)
+- 통계 기반 분석과 데이터 시각화
+- 시계열 데이터 분석
 
----
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📈 Current Focus
-- 🔭 **Working on:** `진행 중인 미니 프로젝트나 스터디 주제 (예: 코스피 주가 데이터 수집 및 시각화)`
-- 🌱 **Learning:** Python 데이터 분석 생태계, 시계열 분석 기초 (ARIMA, 이동평균 등), 기초 통계학
-- 💡 **Goal:** 데이터 기반의 객관적인 투자 인사이트 도출 및 백테스팅 자동화 파이썬 스크립트 작성
+### 🌱 성장 방향
+분석 목적과 데이터의 특성을 먼저 이해하고, 재현 가능한 코드와 명확한 시각화로 결과를 설명하는 분석가를 목표로 합니다. 배운 내용을 작은 프로젝트로 꾸준히 기록하겠습니다.
 
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Data Analysis**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-**Visualization & Environment**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=`jjkwjd123`&show_icons=true&theme=default&hide_border=true)
-
----
-
-### 📫 Contact & Links
-- **Email:** `jjkwjd123@naver.com`
+### 📫 Contact
+[Email](mailto:jjkwjd123@naver.com) · [GitHub](https://github.com/jjkwjd123)
